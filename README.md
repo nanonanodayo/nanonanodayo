@@ -1,16 +1,14 @@
-### Hi there 👋
+## About me.
+| ↓| 説明 |
+| - | - |
+| Name | nano |
+| Student? | true |
+| Often use | C++,C#,BrainFuck |
+| Main PC | 自作 |
+| OS | Windows10 |
 
-<!--
-**nanonanodayo/nanonanodayo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+| Favorite music | [BigBrother](https://www.nicovideo.jp/watch/sm33204176) |
 
-Here are some ideas to get you started:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nanonanodayo)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nanonanodayo&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/nanonanodayo)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
