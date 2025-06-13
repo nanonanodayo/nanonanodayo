@@ -3,7 +3,7 @@
 | - | - |
 | Name | nano |
 | Student? | true |
-| Often use | C++,C#,BrainFuck |
+| Often use | C++,C# |
 | Main PC | 自作 |
 | OS | Windows10 |
 
