@@ -5,7 +5,7 @@
 | Student? | true |
 | Often use | C++,C# |
 | Main PC | 自作 |
-| OS | Windows10 |
+| OS | Windows11 |
 
 | Favorite music | [BigBrother](https://www.youtube.com/watch?v=hOrTU2NNDVQ) |
 
